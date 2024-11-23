@@ -3,7 +3,8 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>Unidad 2</title>
+        <meta name="viewport" content="widht=device-sidth, initial-scale=1.0">
+        <title>PROYECTO INTERMODULAR</title>
     </head>
     
     <body>
