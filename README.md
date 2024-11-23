@@ -45,7 +45,10 @@ Personas excluidas del curso por no cumplir los requisitos mínimos:
 | Antonio         | Corrales Pardo               |
 
 
-[Contacta con el centro](contacta.md)
+
 
 
 ## RECORDAR QUE LA FECHA LÍMITE PARA LA MATRICULACIÓN ES EL 10 DE DICIEMBRE
+
+
+Si tienes alguna duda o necesitas información, [Contacta con el centro](contacta.md)
