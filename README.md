@@ -8,4 +8,4 @@ Podemos poner incluso imágenes!
 
 
 
-![imagen perro](/assets/images/perro.jpg))
+![imagen perro](../perro.jpg)
