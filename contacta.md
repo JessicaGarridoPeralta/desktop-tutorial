@@ -1,6 +1,8 @@
 # SOBRE NUESTRO CENTRO
 
 ![informática](./images/centro.jpeg)
+
+
 Somos un centro de educación especializado en el sector informático, llevamos 10 años impartiendo clases con modalidad presencial y semipresencial de todos nuestros cursos.
 
 
