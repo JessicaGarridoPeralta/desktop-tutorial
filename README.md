@@ -5,3 +5,7 @@
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 Podemos poner incluso imágenes!
 ![Imagen](https://guilleatm.github.io/demo-web/assets/img/my-profile-img.jpg)
+
+
+![imagen pájaro](https://pxhere.com/es/photo/703399)
+![imagen perro](C:\Users\User\Desktop\DAM\PROYECTO INTERMODULAR\Q5\perro.jpg)
