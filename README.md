@@ -1,6 +1,9 @@
 # Mi primera página web con Markdown
-* [Este](https://www.markdownguide.org/basic-syntax/)es un enlace a una web en la que se
-*Hay un montón de recursos más como [este otro](https://www.markdowntutorial.com/) por ejemplo.
+¡Bienvenid@s al curso de DAM Semipresencial!
+Aquí os voy a dejar un enlace por donde podréis acceder a todo vuesto material y temario que necesitaréis para realizar el curso.
+La plataforma se llama Aules, y podéis acceder [pinchando aquí] (https://portal.edu.gva.es/aules/es/inicio/)
+
+
 *Último punto en**negrita**y en*cursiva*
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 Podemos poner incluso imágenes!
