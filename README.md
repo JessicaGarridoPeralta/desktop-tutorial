@@ -29,20 +29,20 @@ A fecha de hoy, 20 de noviembre del 2024, los alumnos inscritos son:
 + Antonio Monte Colorado
 + Lorena Pérez Garrigues
 
-[Visita GitHub](https://github.com)
+Tienen documentos pendientes de entregar para la matrícula (por orden de prioridad en la matriculación del curso):
+1. Paula Valle Perales
+2. Ángel Ramírez Colom
+3. María Pelaez Salvador
+4. Estela Martínez Collado
+5. Ana García Moro
 
-
-*Último punto en**negrita**y en*cursiva*
-> ¿Sabes que este mismo documento está hecho en **markdown**?
-Podemos poner incluso imágenes!
-![Imagen](https://guilleatm.github.io/demo-web/assets/img/my-profile-img.jpg)
-
-
-
-![imagen perro](github-light/assets/images/perro.jpg)
+Personas excluidas del curso por no cumplir los requisitos mínimos:
 
 | Nombre          | Apellidos                    |
 |-----------------|------------------------------|
 | Jessica         | Garrido Peralta              |
 | Vicenta         | Garcia López                 |
 | Antonio         | Corrales Pardo               |
+
+
+## RECORDAR QUE LA FECHA LÍMITE PARA LA MATRÍCULACIÓN ES EL 10 DE DICIEMBRE
