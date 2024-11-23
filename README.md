@@ -8,4 +8,4 @@ Podemos poner incluso imágenes!
 
 
 
-![imagen perro](C:\Users\User\Desktop\DAM\PROYECTO INTERMODULAR\Q5\perro.jpg)
+![imagen perro](/assets/images/perro.jpg))
