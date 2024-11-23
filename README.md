@@ -1,4 +1,4 @@
-# Mi primer documento Markdown
+# Mi primera página web con Markdown
 * [Este](https://www.markdownguide.org/basic-syntax/)es un enlace a una web en la que se
 *Hay un montón de recursos más como [este otro](https://www.markdowntutorial.com/) por ejemplo.
 *Último punto en**negrita**y en*cursiva*
@@ -8,4 +8,10 @@ Podemos poner incluso imágenes!
 
 
 
-![imagen perro](../perro.jpg)
+![imagen perro](github-light/assets/images/perro.jpg)
+
+| Nombre          | Apellidos                    |
+|-----------------|------------------------------|
+| Jessica         | Garrido Peralta              |
+| Vicenta         | Garcia López                 |
+| Antonio         | Corrales Pardo               |
